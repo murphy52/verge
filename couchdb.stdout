@@ -155,3 +155,46 @@ Apache CouchDB has started. Time to relax.
 [info] [<0.116.0>] 127.0.0.1 - - GET /test_suite_db/ 200
 [info] [<0.118.0>] 127.0.0.1 - - GET /test_suite_db2/ 200
 [info] [<0.117.0>] 127.0.0.1 - - GET /verge/ 200
+
+Apache CouchDB 1.5.0 (LogLevel=info) is starting.
+Apache CouchDB has started. Time to relax.
+[info] [<0.31.0>] Apache CouchDB has started on http://127.0.0.1:5984/
+[info] [<0.109.0>] 127.0.0.1 - - POST /verge 201
+[info] [<0.115.0>] 127.0.0.1 - - GET /_utils/database.html?verge 200
+[info] [<0.115.0>] 127.0.0.1 - - GET /_utils/style/layout.css 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /_utils/script/jquery.js 200
+[info] [<0.110.0>] 127.0.0.1 - - GET /_utils/script/futon.js 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /_utils/script/json2.js 200
+[info] [<0.120.0>] 127.0.0.1 - - GET /_utils/script/sha1.js 200
+[info] [<0.108.0>] 127.0.0.1 - - GET /_utils/script/jquery.couch.js 200
+[info] [<0.115.0>] 127.0.0.1 - - GET /_utils/script/jquery.dialog.js 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /_utils/script/jquery.resizer.js 200
+[info] [<0.110.0>] 127.0.0.1 - - GET /_utils/script/futon.browse.js 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /_utils/script/futon.format.js 200
+[info] [<0.120.0>] 127.0.0.1 - - GET /_utils/script/jquery.suggest.js 200
+[info] [<0.120.0>] 127.0.0.1 - - GET /_utils/_sidebar.html 200
+[info] [<0.110.0>] 127.0.0.1 - - GET /_config/query_servers/ 401
+[info] [<0.120.0>] 127.0.0.1 - - GET /verge/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /verge/_all_docs?limit=11 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /_session 200
+[info] [<0.120.0>] 127.0.0.1 - - GET / 200
+[info] [<0.120.0>] 127.0.0.1 - - GET /_utils/document.html?verge/e530e81577045a0acf7955fdc90006b4 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /_utils/script/sha1.js 200
+[info] [<0.110.0>] 127.0.0.1 - - GET /_utils/script/jquery.js 200
+[info] [<0.120.0>] 127.0.0.1 - - GET /_utils/script/json2.js 200
+[info] [<0.108.0>] 127.0.0.1 - - GET /_utils/script/jquery.dialog.js 200
+[info] [<0.115.0>] 127.0.0.1 - - GET /_utils/script/jquery.couch.js 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /_utils/style/layout.css?0.11.0 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /_utils/script/base64.js 200
+[info] [<0.120.0>] 127.0.0.1 - - GET /_utils/script/futon.js 200
+[info] [<0.110.0>] 127.0.0.1 - - GET /_utils/script/jquery.resizer.js 200
+[info] [<0.108.0>] 127.0.0.1 - - GET /_utils/script/futon.browse.js 200
+[info] [<0.115.0>] 127.0.0.1 - - GET /_utils/script/futon.format.js 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /_utils/script/jquery.editinline.js 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /_utils/script/jquery.form.js 200
+[info] [<0.111.0>] 127.0.0.1 - - GET /_utils/image/save.png 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /_utils/image/load.png 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /_utils/_sidebar.html 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /verge/e530e81577045a0acf7955fdc90006b4?revs_info=true 200
+[info] [<0.112.0>] 127.0.0.1 - - GET /_session 200
+[info] [<0.111.0>] 127.0.0.1 - - GET / 200
